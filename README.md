@@ -1,4 +1,4 @@
-# Sediment metagenomes as time capsules of lake microbiomes <a><img src='images/paleocapture_mapping.png' align="right" height="300"/></a>
+# Sediment Metagenomes as Time Capsules of Lake Microbiomes <a><img src='images/paleocapture_mapping.png' align="right" height="300"/></a>
 
 Pipelines and scripts associated with the article
 
