@@ -4,7 +4,7 @@ Pipelines and scripts associated with the article
 
 ---
 
-Garner RE, Gregory-Eaves I, Walsh DA. 2020. Sediment Metagenomes as Time Capsules of Lake Microbiomes. mSphere 5:e00512-20. https://doi.org/10.1128/mSphere.00512-20.
+Garner RE, Gregory-Eaves I, Walsh DA. 2020. Sediment Metagenomes as Time Capsules of Lake Microbiomes. *mSphere* **5**, e00512-20. https://doi.org/10.1128/mSphere.00512-20.
 
 ---
 
